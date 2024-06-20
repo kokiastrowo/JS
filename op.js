@@ -17,3 +17,18 @@ console.log(null >=0 )//true
 console.log(null >0 )//false
 console.log(null ==0 )//false
 console.log("2"===2)// strict checking //false
+
+const bg=45773648937408374837492374n// bigint 
+//PRIMITIVE 
+//7 : STR ,BOOL,NUM,NULL,UNDEF,SYMBOL,BIGINT
+//DYNAMICALLY
+//TYPESCRIPT : STRICT 
+//REFERENCE TYPE (NON PRIMITIVE)
+//ARRAYS, OBJECTS,FUNCTIONS
+const j=["hdv","fydg"]
+let obj ={
+name:"hhdc"
+}
+const mf=function(){
+    console.log("gdfgd")
+}
